@@ -1,5 +1,6 @@
 / 文件名 : ExcepTest.java
 import java.io.*;
+kkkkkkkk
 public class ExcepTest {
    public static void main(String args[]){
       try{
